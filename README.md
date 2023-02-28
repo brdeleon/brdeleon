@@ -13,7 +13,7 @@
 
 - 😄 Pronouns: **she/her**
 
-- ⚡ Fun fact **Transitioning into tech as a Paralegal ⚖️**
+- ⚡ Fun fact: **Transitioning into tech as a Paralegal ⚖️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
