@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Brenda De Leon</h1>
 <h3 align="center">A passionate data analyst</h3>
 
-- 🔭 I’m currently working on [ADS Crash Analysis](https://github.com/brdeleon/ADS_crash_analysis)
+- 🔭 I’m currently working on: [ADS Crash Analysis](https://github.com/brdeleon/ADS_crash_analysis)
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning: **AWS**
 
-- 📝 I regularly write articles on [https://medium.com/@brendadeleon](https://medium.com/@brendadeleon)
+- 📝 I regularly write articles on: [https://medium.com/@brendadeleon](https://medium.com/@brendadeleon)
 
-- 💬 Ask me about **Data, Career Change**
+- 💬 Ask me about: **Data, Career Change**
 
-- 📫 How to reach me **brendardeleon@gmail.com**
+- 📫 How to reach me: **brendardeleon@gmail.com**
 
-- 😄 Pronouns: she/her
+- 😄 Pronouns: **she/her**
 
 - ⚡ Fun fact **Transitioning into tech as a Paralegal ⚖️**
 
