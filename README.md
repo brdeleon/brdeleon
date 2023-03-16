@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brenda De Leon</h1>
 <h3 align="center">A passionate data analyst</h3>
 
-- 🔭 I’m currently working on: [ADS Crash Analysis](https://github.com/brdeleon/ADS_crash_analysis)
+- 🔭 I’m currently working on: [Automated Driving Systems Crash Analysis](https://github.com/brdeleon/ADS_crash_analysis](https://github.com/brdeleon/Automated_Driving_Systems_crash_analysis/blob/main/ads_crash_analysis.ipynb)
 
 - 🌱 I’m currently learning: **AWS**
 
