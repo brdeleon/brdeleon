@@ -5,7 +5,7 @@ My passion for numbers and data analysis, combined with my background in paraleg
 
 I am excited to continue applying my skills and knowledge to data-focused roles and connect with organizations and professionals who share my passion for leveraging data to drive impactful insights.
 
-Outside of data, I enjoy reading, tending to my plants, and dog mom activities. 🐕☀️
+Outside of data, I enjoy reading, tending to my plants, and dog mom activities.
 
 - 🔭 I’m currently working on: [Automated Driving Systems Crash Analysis](https://github.com/brdeleon/Automated_Driving_Systems_crash_analysis/blob/main/ads_crash_analysis.ipynb)
 
