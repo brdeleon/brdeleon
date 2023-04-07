@@ -4,8 +4,7 @@
 My passion for numbers and data analysis, combined with my background in paralegal work and research, motivated me to transition into a career in data science. I thrive on the challenge of compiling and organizing information from disparate systems to build a comprehensive understanding of complex situations and deliver valuable insights.
 
 I am excited to continue applying my skills and knowledge to data-focused roles and connect with organizations and professionals who share my passion for leveraging data to drive impactful insights.
-
-
+</br>
 
 - 🔭 I’m currently working on: [Automated Driving Systems Crash Analysis](https://github.com/brdeleon/Automated_Driving_Systems_crash_analysis/blob/main/ads_crash_analysis.ipynb)
 
