@@ -20,6 +20,8 @@ I am excited to continue applying my skills and knowledge to data-focused roles 
 - 😄 Pronouns: **she/her**
 
 - ⚡ Fun fact: **Transitioning into tech as a Paralegal ⚖️**
+ 
+</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
